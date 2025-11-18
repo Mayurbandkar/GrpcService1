@@ -2,6 +2,6 @@
 {
     public class Employee
     {
-
+        public int MyProperty { get; set; }
     }
 }
